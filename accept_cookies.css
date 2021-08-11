@@ -1,0 +1,18 @@
+.accept-cookies-footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    opacity: 0.8;
+    margin: auto auto auto -8;
+    position: absolute;
+    bottom: 0;
+}
+
+.accept-button {
+    height: 50;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+}
